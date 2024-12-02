@@ -1,0 +1,23 @@
+h1 {
+    font-family: sans-serif;
+    font-style: italic;
+    color: blueviolet;
+}
+
+h2 {
+    font-family: cursive;
+    color: crimson;
+}
+
+body {
+    text-align: center;
+}
+
+p {
+    font-family: sans-serif;
+}
+
+img {
+    height: auto;
+    width: 75%;
+}
